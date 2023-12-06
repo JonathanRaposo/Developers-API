@@ -1,0 +1,108 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "firstName": "Brendan",
+      "lastName": "Eich",
+      "programming_language": "JavaScript",
+      "description": "JavaScript, originally named LiveScript, was created by Brendan Eich while he was working at Netscape Communications Corporation in 1995. It was initially developed in a span of just 10 days as a scripting language for web browsers. The language was later renamed JavaScript to leverage the popularity of Java at that time, although the two languages are fundamentally different.",
+      "image_url": "https://compote.slate.com/images/cda8ecbc-3785-426f-983e-27ee18ccb17b.jpg"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Gosling",
+      "description": "Known as the father of Java, a widely used programming language known for its platform independence.",
+      "programming_language": "Java",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtlQfaKi_mcdsK_OpVaRkERvClBqGAZN5i5A&usqp=CAU",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Guido",
+      "lastName": "Van Rossum",
+      "programming_language": "Python",
+      "description": "Created Python, a popular programming language known for its simplicity and readability.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnKo_8JzU9k1fVahDkjkIFXpyEQSArS3f49Q&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "firstName": "Dennis",
+      "lastName": "Ritchie",
+      "programming_language": "C",
+      "description": "Co-created the C programming language, which has been influential in the development of many other languages and operating systems.",
+      "image_url": "https://siliconangle.com/files/2011/10/dennis-ritchie.png"
+    },
+    {
+      "id": 5,
+      "firstName": "Bjarne ",
+      "lastName": "Stroustrup",
+      "programming_language": "C++",
+      "description": "Created C++, an extension of the C programming language that added object-oriented programming features.",
+      "image_url": "https://pbs.twimg.com/media/DUzbwUdX4AE5RGO.jpg"
+    },
+    {
+      "id": 6,
+      "firstName": "Yukihiro",
+      "lastName": "Matsumoto (Matz)",
+      "programming_language": "Ruby",
+      "description": "Developed Ruby, a dynamic, object-oriented scripting language known for its simplicity and productivity.",
+      "image_url": "https://globalprogrammersstories.files.wordpress.com/2015/02/download-14.jpg"
+    },
+    {
+      "id": 7,
+      "firstName": "Larry",
+      "lastName": "Wall",
+      "programming_language": "Pearl",
+      "description": "Created Perl, a high-level, general-purpose programming language often used for text manipulation and web development",
+      "image_url": "https://www.yapc.tv/wp-content/uploads/larry-wall.jpg"
+    },
+    {
+      "id": 8,
+      "firstName": "Linus",
+      "lastName": "Torvalds",
+      "programming_language": "Linux Kernel",
+      "description": " Developed the Linux kernel, the core of the Linux operating system widely used in servers, supercomputers, and embedded systems.",
+      "image_url": "https://cdn.britannica.com/99/124299-050-4B4D509F/Linus-Torvalds-2012.jpg?w=400&h=300&c=crop"
+    },
+    {
+      "id": 9,
+      "firstName": "Anders",
+      "lastName": "Hejlsberg",
+      "programming_language": "TypeScript",
+      "description": "Created TypeScript, a superset of JavaScript that adds static typing to the language.",
+      "image_url": "https://tv.ssw.com/wp-content/uploads/2018/04/Anders-Hejlsberg.jpg"
+    },
+    {
+      "id": 10,
+      "firstName": "Ryan",
+      "lastName": "Dahl",
+      "programming_language": "Node.js",
+      "description": "Developed Node.js, a JavaScript runtime used for building scalable network applications.",
+      "image_url": "https://cdn.cloudinary.com/stichting-frontend-amsterdam/image/upload/v1674813354/dev/Dahl_Ryan_wg0lg5.png"
+    },
+    {
+      "firstName": "Rasmus",
+      "lastName": "Lerdorf",
+      "programming_language": "PHP (Hypertext Preprocessor)",
+      "description": "It began as a personal project in 1994 when Lerdorf developed a set of Perl scripts to manage his personal webpage. He extended these scripts and combined them with some elements of C to create a more powerful tool for web development.",
+      "image_url": "https://www.buscabiografias.com/img/people/Rasmus-Lerdorf.jpg",
+      "id": 11
+    },
+    {
+      "firstName": "David ",
+      "lastName": "Heinemeier Hansson",
+      "programming_language": "Ruby on Rails",
+      "description": "Co-created Ruby on Rails, a popular web application framework built using the Ruby programming language.",
+      "image_url": "https://d3o1wlpkmt4nt9.cloudfront.net/wp-content/uploads/2017/05/16154122/David-Heinemeier-Hansson-Startups-Live-min.jpg",
+      "id": 12
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Raposo ",
+      "programming_language": "JavaScript",
+      "description": "Jonathan R. is a frontend web developer. He started  his software engineering journey back in 2021 and is thriving in the tech industry.",
+      "image_url": "https://res.cloudinary.com/djpjutqc3/image/upload/v1681774503/zqu81fntpaskzrmcllun.jpg",
+      "id": 13
+    }
+  ]
+}
