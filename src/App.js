@@ -21,8 +21,8 @@ const App = () => {
         <Route path="/developers/:id" element={<DetailsPage />} />
         <Route path="/developers/update/:id" element={<UpdateDeveloperPage />} />
         <Route path="/addDeveloper" element={<AddDeveloperPage />} />
-
         <Route path="*" element={<ErrorPage />} />
+
       </Routes>
     </div>
   );
