@@ -1,6 +1,5 @@
 
 import Navbar from './components/Navbar';
-
 import HomePage from './pages/HomePage';
 import DevelopersPage from './pages/DevelopersPage';
 import DetailsPage from './pages/DetailsPage';
