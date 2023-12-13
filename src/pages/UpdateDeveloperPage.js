@@ -8,12 +8,13 @@ const UpdateDeveloperPage = () => {
     const [firstName, setFirstName] = useState('');
     const [lastName, setLastName] = useState('');
     const [description, setDescription] = useState('');
-    const [program, setProgram] = useState('')
-    const [imageUrl, setImageUrl] = useState('')
-    const [errorMessage, setErrorMessage] = useState(null)
+    const [program, setProgram] = useState('');
+    const [imageUrl, setImageUrl] = useState('');
+    const [errorMessage, setErrorMessage] = useState(null);
 
     const { id } = useParams();
-    const navigate = useNavigate()
+    const navigate = useNavigate();
+
     useEffect(() => {
         developersAPI
             .getDeveloper(id)

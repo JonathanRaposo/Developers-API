@@ -29,12 +29,12 @@ const DevelopersPage = () => {
     }
 
     const getDeveloper = (query, arr) => {
-        const filteredDevelopers = arr.filter((developer) => {
-            return developer.firstName.toLowerCase().includes(query.toLowerCase()) ||
-                developer.lastName.toLowerCase().includes(query.toLowerCase()) ||
-                developer.programming_language.toLowerCase().includes(query.toLowerCase()) ||
-                developer.description.toLowerCase().includes(query.toLowerCase())
-        })
+        const filteredDevelopers = arr.filter((developer) => (
+            developer.firstName.toLowerCase().includes(query.toLowerCase()) ||
+            developer.lastName.toLowerCase().includes(query.toLowerCase()) ||
+            developer.programming_language.toLowerCase().includes(query.toLowerCase()) ||
+            developer.description.toLowerCase().includes(query.toLowerCase())
+        ))
         if (!filteredDevelopers.length) {
             return arr;
         }
